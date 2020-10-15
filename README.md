@@ -1,3 +1,3 @@
-# sap-fiori_demo
+# Demo Fiori
 
-This is a SAP demo
+This is a SAP Fiori demo application, made to learn usage of Business Application Studio
